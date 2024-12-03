@@ -40,7 +40,7 @@
 
   ## Contributing
   Hannah Schmidt, Student 
-
+  Gianna, Student 
 
   ## Questions
   If you have any questions, please contact me at hnbright57@gmail.com, find me on GitHub at hannahliz0, or visit my GitHub profile at https://github.com/Hannahliz0
